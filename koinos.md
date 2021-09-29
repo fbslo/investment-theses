@@ -37,6 +37,8 @@ Solution for this problem is abstraction of operation system and applications. E
 
 To solve this problem, another layer of abstraction is added, “blockchain BIOS”. It makes upgrades to the blockchain itself much easier, while minimizing downtime. At the base of the Koinos stack is a blockchain framework that features a set of “thunks” that represent blockchain basics like contract input/output, getting parameters, writing to the database, etc. Above the framework is a system call layer that provides library-like support to smart contracts that can be upgraded in-band. System calls can be either thunks (native implementations) or smart contracts (WASM implementations).
 
+![thunks](https://koinos.io/thunks.png)
+
 To increase scalability, StateBD is used. StateDB started as an evolution on chainbase, but has become its own beast entirely, replacing chainbase in the process. On BitShares, Steem, and EOS, the database tracks the most current state. That is the head block state plus pending transactions. This means the database never actually reflects the current state of the blockchain. In order to address that issue, when each block is applied the pending transaction state is undone, the old values are written back to the database, and then the block is applied. One problem with this approach is that most of the time this means performing the exact same calculations again and writing the same state back to the database that was just there which is inefficient.
 
 <h1><p align=center>DISCLAIMER</h1>
