@@ -29,7 +29,7 @@ I know them since 2017, and I believe they have technical knowledge to build a s
 
 <h3>Technical details:</h3>
 
-This part is mostly refined whitepaper, you can also read full whitepaper here: <https://koinos.io/whitepaper/>
+To learn more, you can also read full whitepaper here: <https://koinos.io/whitepaper/>
 
 In the early days of blockchains, there was no distinction between application and operating system. Developers had to build their applications from the ground up, since no tools exited yet. For example, Bitcoin is both application (sending money) and operating system (blockchain producing blocks & p2p distributing them). But such system design causes problems, since any upgrades can effect entire applications, and code itself can get very complex and bloated.
 
