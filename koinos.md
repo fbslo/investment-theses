@@ -2,7 +2,7 @@
 
 [Koinos.io](https://koinos.io/) - [CoinGecko](https://www.coingecko.com/en/coins/koinos) - [EtherScan](https://etherscan.io/token/0x66d28cb58487a7609877550e1a34691810a6b9fc) - [Whitepaper](https://koinos.io/whitepaper)</p>
 
-Written by [@fbsloXBT](https://twitter.com/fbsloxbt), September 29st, 2021 
+Written by [@fbsloXBT](https://twitter.com/fbsloxbt), September 29th, 2021 
 
 ---
 
