@@ -10,7 +10,7 @@ Written by [@fbsloXBT](https://twitter.com/fbsloxbt), September 29th, 2021
 
 Koinos is not a blockchain, it is a blockchain building technology (think Hyperledger, Cosmos, Polkadot) that makes it far faster and easier to launch high performance blockchains with no fees and capable of evolution. Making it far easier for developers to launch their own blockchains.
 
-<sup>Note: Koinos is blockchain framework, while Koinos Mainnet is an implementation of Koinos framework, launching in Q4 2021.</sup>
+<sup>Note: Koinos is blockchain framework, while Koinos Mainnet is an implementation of Koinos framework, launching in Q2 2022.</sup>
 
 Koinos Mainnet is fee-less blockchain, utilizing microservice architecture to achieve vertical scalability. All transactions are free, but enforcing proportionate network usage, if you need 1% of network resources, you need to hold 1% of liquid KOIN tokens.
 
