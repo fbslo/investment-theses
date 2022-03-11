@@ -8,6 +8,8 @@ Written by [@fbsloXBT](https://twitter.com/fbsloxbt), March 10th, 2022
 
 Wonderland is OHM fork, originally founded by @danielesesta, based on Avalanche blockchain. During OHM fork season in Q3-Q4 of 2021, has amassed a large treasury, but due to different circumstances (both general decline of OHM forks, and discovery that co-founder and treasury manager @0xSifu is actually QuadrigaCX-related developer and ex-convict Michael Patryn), the token value plummeted and at the time of writing (March 9th, 2022), wMEMO token (wMEMO is a wrapped version of MEMO, staked version of TIME. It's not increasing in amount, only in value (against MEMO)) is trading at $26,544.
 
+Governance proposal was passed that will allow users to exchange their wMEMO for MIM at backing price - Rage Quit: https://www.wonderlandforum.xyz/t/wip-5-offer-a-rage-quit-option-to-wmemo-holders/
+
 Treasury is located at following addresses: [zapper link](https://zapper.fi/bundle/0xb6b80f4ea8fb4117928d3c819e8ac6f1a3837baf,0x355d72fb52ad4591b2066e43e89a7a38cf5cb341,0x1c46450211cb2646cc1da3c5242422967ed9e04c,0x78a9e536ebda08b5b9edbe5785c9d1d50fa3278c):
 * 0xb6b80f4ea8fb4117928d3c819e8ac6f1a3837baf
 * 0x355d72fb52ad4591b2066e43e89a7a38cf5cb341 
