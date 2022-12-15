@@ -10,6 +10,10 @@ Written by [@fbsloXBT](https://twitter.com/fbsloxbt), September 29th, 2021
 
 Update: Koinos Snapshot was taken on October 31st 2022 ([tx](https://etherscan.io/tx/0xf28c62da7a075d42f471527c8305421fba4d964cf3fb9eea0169927b53e9cf03)), ERC20 KOIN token is now worthless and buying KOIN is not possible until main-net launch.
 
+Update: Mainnet launched on 5th November 2022.
+
+Update: KOIN is now listed on MEXC: https://www.mexc.com/exchange/KOIN_USDT
+
 Koinos is not a blockchain, it is a blockchain building technology (think Hyperledger, Cosmos, Polkadot) that makes it far faster and easier to launch high performance blockchains with no fees and capable of evolution. Making it far easier for developers to launch their own blockchains.
 
 <sup>Note: Koinos is blockchain framework, while Koinos Mainnet is an implementation of Koinos framework, expected to launch in Q4 2022.</sup>
